@@ -1,6 +1,6 @@
 cask "kedi" do
-  version "0.3.1"
-  sha256 "83f8965a9172e196a0d58103e9fcd9697bd1b7212c7d1adee004f82192a98ecb"
+  version "0.4.0"
+  sha256 "51b5f78326c39f7eceb18d6333f9d2213ff0d6c4cc1d9796dbbe8487e424e8f5"
 
   url "https://github.com/kannonski/warden/releases/download/v#{version}/kedi_#{version}_universal.dmg"
   name "kedi"
