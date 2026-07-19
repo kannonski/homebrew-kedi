@@ -22,7 +22,5 @@ cask "kedi" do
   #   brew install --cask --no-quarantine kannonski/kedi/kedi
   # (or right-click the app the first time → Open).
 
-  zap trash: [
-    "~/Library/Application Support/dev.kedi.terminal",
-  ]
+  zap trash: "~/Library/Application Support/dev.kedi.terminal"
 end
